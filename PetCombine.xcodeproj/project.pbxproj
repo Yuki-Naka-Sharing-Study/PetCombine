@@ -11,6 +11,8 @@
 		D11773AA2E0D16D700D082F9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D11773A92E0D16D700D082F9 /* ContentView.swift */; };
 		D11773AC2E0D16D800D082F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D11773AB2E0D16D800D082F9 /* Assets.xcassets */; };
 		D11773AF2E0D16D800D082F9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D11773AE2E0D16D800D082F9 /* Preview Assets.xcassets */; };
+		D11773B62E0D172D00D082F9 /* CatViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D11773B52E0D172D00D082F9 /* CatViewModel.swift */; };
+		D11773B82E0D174D00D082F9 /* CatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D11773B72E0D174D00D082F9 /* CatView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		D11773A92E0D16D700D082F9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D11773AB2E0D16D800D082F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D11773AE2E0D16D800D082F9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D11773B52E0D172D00D082F9 /* CatViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatViewModel.swift; sourceTree = "<group>"; };
+		D11773B72E0D174D00D082F9 /* CatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				D11773A92E0D16D700D082F9 /* ContentView.swift */,
 				D11773AB2E0D16D800D082F9 /* Assets.xcassets */,
 				D11773AD2E0D16D800D082F9 /* Preview Content */,
+				D11773B52E0D172D00D082F9 /* CatViewModel.swift */,
+				D11773B72E0D174D00D082F9 /* CatView.swift */,
 			);
 			path = PetCombine;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				D11773AA2E0D16D700D082F9 /* ContentView.swift in Sources */,
 				D11773A82E0D16D700D082F9 /* PetCombineApp.swift in Sources */,
+				D11773B62E0D172D00D082F9 /* CatViewModel.swift in Sources */,
+				D11773B82E0D174D00D082F9 /* CatView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
